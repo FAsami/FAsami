@@ -14,10 +14,9 @@ You can use the website to generate badges: https://shields.io/
 **About Me:**
 
 - I’m currently working on __[dailyos](https://github.com/dailykit)__.
-- I’m currently learning __D3JS__, __Python__, & __GraphQL__.
-- I’m looking to collaborate on anything!
+- I’m looking to collaborate on Javascript and related technologies!
 - Ask me about anything, I am happy to help.
-- Fun-Fact: I am not so funny .
+- Fun-Fact: #.
 - How to reach me: __foysal.developer@gmail.com__
 
 ---
@@ -46,6 +45,6 @@ You can use the website to generate badges: https://shields.io/
 ---
 
 <a href="https://github.com/FASami/github-readme-stats">
-   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=FASami&show_icons=true&hide_border=true" />
+   <img width="100%"  src="https://github-readme-stats.vercel.app/api?username=FASami&show_icons=true&hide_border=true" />
 </a>
 
