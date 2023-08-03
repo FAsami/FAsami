@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on __[HERN](https://github.com/dailykit/HERN)__.
+- I’m currently working on __[ONO Suite](https://www.onosuite.com/)__.
 - I’m looking to collaborate on Javascript and related technologies!
 - Ask me about anything, I am happy to help.
 - Fun-Fact: .(Dot)
