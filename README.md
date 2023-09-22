@@ -43,8 +43,7 @@ You can use the website to generate badges: https://shields.io/
 </p>
 
 ---
-
-<a href="https://github.com/FASami/github-readme-stats">
-   <img width="100%"  src="https://github-readme-stats.vercel.app/api?username=FASami&show_icons=true&hide_border=true" />
-</a>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FASami&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FASami&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FASami&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
