@@ -12,8 +12,7 @@ I'm a passionate **Full Stack JavaScript Developer** with 4+ years of experience
 - **Testing**: ![Jest](https://img.shields.io/badge/-Jest-333?style=flat&logo=jest) ![Cypress](https://img.shields.io/badge/-Cypress-333?style=flat&logo=cypress)
 
 ## 🔭 What I’m Working On
-- **[Artnao](https://github.com/FASami/artnao)** – A subscription-based design platform offering assets for social media, web, and app designs.
-- **Arnato** – A web app providing multi-branding restaurant solutions.
+- **[Artnao](https://github.com/FASami/artnao)** – [PET PROJECT] A subscription-based design platform offering assets for social media, web, and app designs.
 - Various demo projects exploring **Next.js**, **Tailwind CSS**, and **Prisma** integrations.
 
 ## 📊 GitHub Stats
