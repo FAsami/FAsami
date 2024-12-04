@@ -38,5 +38,3 @@ I'm a passionate **Full Stack JavaScript Developer** with 4+ years of experience
 - Microservices architecture using **NestJS** and **Docker**.
 - More about serverless technologies (AWS Lambda, Vercel)
 
-## ⚡ Fun Fact
-I love building **kiosk** interfaces, experimenting with UI/UX, and exploring **design automation** systems!
