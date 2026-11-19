@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Foysal Ahammed
 
 **Software Engineer at OnoSuite** · Full stack: React, Next.js, TypeScript, Node.js
-📍 Dhaka, Bangladesh (UTC+6) · Open to remote roles
+📍 Dhaka, Bangladesh (UTC+6)
 
 I've spent 5+ years building production web products, and I've worked fully remotely since 2020.
 At **OnoSuite**, a restaurant-tech SaaS, I lead a team of 3–5 web developers building ordering, admin and kiosk products for F&B brands in India and Saudi Arabia:
