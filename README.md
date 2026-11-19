@@ -11,11 +11,18 @@ At **OnoSuite**, a restaurant-tech SaaS, I lead a team of 3–5 web developers b
 - **Payment integrations** (Stripe, Razorpay, PayPal, Paytm) handling 600–1,000 orders a day
 - A **shared React UI library** documented in Storybook
 
+## 🧭 Products I'm building (founder)
+
+- **Job Calendar**: a Bangla-first Android app that applies for Bangladeshi government jobs on users' behalf and tracks each application from circular to admit card and exam. Built with Flutter, a TypeScript API and worker, and Postgres with encrypted profiles, covered by about 4,500 tests. It uses **Claude** to read eligibility requirements from Bangla circular PDFs: structured output with a quote, page and confidence per field, and a model chosen by measuring accuracy and cost on real circulars. Release 1.0 is in Google Play internal testing, with a public launch coming.
+- **LetZeusPost** *(in development)*: a SaaS for agencies where AI plans, writes, designs and checks on-brand social posts in English and Bangla, and people approve them. It runs on Next.js, Postgres with row-level security and the Anthropic SDK, and is built with a team of Claude Code agents for building, review, security and design.
+
+Both repos are private for now; I'm happy to walk through them on a call.
+
 ## 🚀 Projects
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [Skytraverse](https://github.com/FAsami/skytraverse) | Flight booking: search, filters, booking, webhook payments | Next.js, TypeScript |
+| [Skytraverse](https://github.com/FAsami/skytraverse) · [live](https://skytraverse.vercel.app) | Flight booking: search, filters, booking, webhook payments | Next.js, TypeScript |
 | [Blood Nexus](https://github.com/FAsami/blood-nexus) · [live](https://blood-nexus.vercel.app) | Matches blood donors to requests by location and blood type | Next.js, TypeScript |
 | [Artnao](https://github.com/FAsami/artnao) · [live](https://artnao.com) | Marketplace for hiring artists and selling artwork | Next.js, Prisma, PostgreSQL |
 | [UniSync](https://github.com/FAsami/unisync) | Mobile app with a GraphQL backend | React Native (Expo), Express, Hasura, Docker |
@@ -30,7 +37,8 @@ At **OnoSuite**, a restaurant-tech SaaS, I lead a team of 3–5 web developers b
 - **Data:** PostgreSQL, MongoDB
 - **DevOps:** AWS, Docker, GitHub Actions, Jenkins, Nginx
 - **Testing:** Jest, Cypress
-- **AI:** Claude Code in my daily workflow (spec-first development, code review, debugging); currently learning LLM engineering (agents, RAG)
+- **Mobile:** Flutter (Android), React Native (Expo)
+- **AI:** Claude API (structured outputs, Batch API), model and cost evaluation on real data, agentic development with Claude Code
 
 ## ✍️ Writing
 
