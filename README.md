@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Foysal Ahammed
 
-**Full Stack Developer and Web Team Lead** · React, Next.js, TypeScript, Node.js
+**Software Engineer at OnoSuite** · Full stack: React, Next.js, TypeScript, Node.js
 📍 Dhaka, Bangladesh (UTC+6) · Open to remote roles
 
-I've spent 6 years building production web products, and I've worked fully remotely since 2020.
+I've spent 5+ years building production web products, and I've worked fully remotely since 2020.
 At **OnoSuite**, a restaurant-tech SaaS, I lead a team of 3–5 web developers building ordering, admin and kiosk products for F&B brands in India and Saudi Arabia:
 
 - A **multi-tenant configuration manager** used by 5+ restaurant brands
@@ -14,9 +14,9 @@ At **OnoSuite**, a restaurant-tech SaaS, I lead a team of 3–5 web developers b
 ## 🧭 Products I'm building (founder)
 
 - **Job Calendar**: a Bangla-first Android app that applies for Bangladeshi government jobs on users' behalf and tracks each application from circular to admit card and exam. Built with Flutter, a TypeScript API and worker, and Postgres with encrypted profiles, covered by about 4,500 tests. It uses **Claude** to read eligibility requirements from Bangla circular PDFs: structured output with a quote, page and confidence per field, and a model chosen by measuring accuracy and cost on real circulars. Release 1.0 is in Google Play internal testing, with a public launch coming.
-- **LetZeusPost** *(in development)*: a SaaS for agencies where AI plans, writes, designs and checks on-brand social posts in English and Bangla, and people approve them. It runs on Next.js, Postgres with row-level security and the Anthropic SDK, and is built with a team of Claude Code agents for building, review, security and design.
+- **[LetZeusPost](https://github.com/picasso-canvas/letzeuspost)** *(in development)*: a SaaS for agencies where AI plans, writes, designs and checks on-brand social posts in English and Bangla, and people approve them. It runs on Next.js, Postgres with row-level security and the Anthropic SDK, and is built with a team of Claude Code agents for building, review, security and design.
 
-Both repos are private for now; I'm happy to walk through them on a call.
+Job Calendar's repo is private for now; I'm happy to walk through it on a call.
 
 ## 🚀 Projects
 
